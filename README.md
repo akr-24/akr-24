@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Kumar.
 - 👀 I’m interested in solving DSA problems,web developing & competitive programming.
-- 🌱 I’m currently learning JavaScript,ReactJS,MySQL and many more things to enchance my developing skills
+- 🌱 I’m currently working on JavaScript,ReactJS,MongoDB,Express.js,Node.js and many more things to enchance my developing skills
 - 📫 You can reach me via my gmail amankumarg014@gmail.com 
 
 <!---
