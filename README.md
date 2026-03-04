@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Aman Kumar.
-- 👀 I’m interested in solving DSA problems,web developing & competitive programming.
-- 🌱 I’m currently working on JavaScript,ReactJS,MongoDB,Express.js,Node.js and many more things to enchance my developing skills
+- 👋 Hi, This is Aman.
+- 🌱 I’m currently working as a full-stack developer at Salesforce.
 - 📫 You can reach me via my gmail amankumarg014@gmail.com 
 
 <!---
