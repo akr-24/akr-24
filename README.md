@@ -1,8 +1,14 @@
-- 👋 Hi, This is Aman.
-- 🌱 I’m currently working as a full-stack developer at Salesforce.
-- 📫 You can reach me via my gmail amankumarg014@gmail.com 
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
-<!---
-akr-24/akr-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+Software Engineer @ Salesforce | Ex-Amazonian | Building Scalable Systems
+</p>
+
+---
+
+### 📫 Connect With Me
+- ✉️ Email: **amankumarg014@gmail.com**
+
+---
+
+⭐️ *Always open to learning, building, and collaborating on interesting projects.*
