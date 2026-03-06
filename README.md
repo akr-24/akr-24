@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
 <p align="center">
-Software Engineer @ Salesforce | Ex-Amazonian | Building Scalable Systems
+<b>Software Engineer @ Salesforce</b> | <b>Ex-Amazon</b>
 </p>
 
 ---
